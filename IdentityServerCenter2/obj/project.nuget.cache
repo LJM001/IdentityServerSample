@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3QtdAjkc35JfM00XIE1oHXTphjrCZwY6Q6rpK+ebY3vOg+8dFNyOZzkV+3I7oV/mn3TiAGxDc+E6zN063QvOvQ==",
+  "success": true,
+  "projectFilePath": "D:\\ljmDemo\\IdentityServerSample\\IdentityServerCenter2\\IdentityServerCenter2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

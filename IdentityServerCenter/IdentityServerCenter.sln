@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServerCenter", "IdentityServerCenter.csproj", "{9EDCF4F1-99A7-45A5-B34A-28742CFF141F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerCenter3", "..\IdentityServerCenter3\IdentityServerCenter3.csproj", "{54EE2F74-FC3C-4DCF-A372-CBA256C2B655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EDCF4F1-99A7-45A5-B34A-28742CFF141F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDCF4F1-99A7-45A5-B34A-28742CFF141F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDCF4F1-99A7-45A5-B34A-28742CFF141F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EDCF4F1-99A7-45A5-B34A-28742CFF141F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54EE2F74-FC3C-4DCF-A372-CBA256C2B655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EE2F74-FC3C-4DCF-A372-CBA256C2B655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EE2F74-FC3C-4DCF-A372-CBA256C2B655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EE2F74-FC3C-4DCF-A372-CBA256C2B655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C8EBAF-4D9E-4851-9A76-29D5854A717F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "N7VG0u0KWSA7Ipesel/Fjsv+o/ONMn/qSUVlq0Osy3hDUvv5dhGF1t3BLwufQ3H2wXzYfGMGQDxuzgt2t4ulFw==",
+  "success": true,
+  "projectFilePath": "D:\\ljmDemo\\IdentityServerSample\\IdentityServerCenter\\IdentityServerCenter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wuyuhai\\.nuget\\packages\\identitymodel\\4.1.1\\identitymodel.4.1.1.nupkg.sha512",
+    "C:\\Users\\wuyuhai\\.nuget\\packages\\identityserver4\\3.1.2\\identityserver4.3.1.2.nupkg.sha512",
+    "C:\\Users\\wuyuhai\\.nuget\\packages\\identityserver4.storage\\3.1.2\\identityserver4.storage.3.1.2.nupkg.sha512",
+    "C:\\Users\\wuyuhai\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\3.1.0\\microsoft.aspnetcore.authentication.openidconnect.3.1.0.nupkg.sha512",
+    "C:\\Users\\wuyuhai\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\wuyuhai\\.nuget\\packages\\microsoft.identitymodel.logging\\5.5.0\\microsoft.identitymodel.logging.5.5.0.nupkg.sha512",
+    "C:\\Users\\wuyuhai\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.5.0\\microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
+    "C:\\Users\\wuyuhai\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
+    "C:\\Users\\wuyuhai\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\wuyuhai\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\wuyuhai\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.5.0\\system.identitymodel.tokens.jwt.5.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\wuyuhai\\.nuget\\packages\\system.text.encodings.web\\4.6.0\\system.text.encodings.web.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
